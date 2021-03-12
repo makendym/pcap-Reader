@@ -30,7 +30,7 @@ The program would then be compiled and run using the audio.cap file associated w
 
   
   ## Sneak-Peek
-<<will enter later>>
+![Alt Text](image.jpg)
 
   
   ## Contributing
